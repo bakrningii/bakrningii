@@ -131,7 +131,7 @@ const LoveLetter = () => {
                     </button>
                     <div className="munna envelope-flap text-black relative">
                         <div className='munna absolute left-1/2 top-[20%] -translate-x-1/2 flex items-center justify-center flex-col md:gap-y-2'>
-                            <span className='munna font-sriracha md:text-2xl text-lg'>Wasiqoqi na soyayya guda takwas</span>
+                            <span className='munna font-sriracha md:text-2xl text-lg'>Wasiqoqi na soyayya guda tara</span>
                             <span className='munna font-dancingScript md:text-3xl text-xl'>To my Noor 🖤, my Baby J ❤️</span>
                         </div>
                     </div>
